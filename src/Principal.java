@@ -6,6 +6,9 @@ public class Principal {
 		
 		Productos producto = new Productos();
 		
+		System.out.println("HOLA MUNDO");
+		System.out.println("Tienes " + 10);
+		
 		//Pasar los datos al objeto
 		producto.setNombre("Barritas");
 		producto.setPrecio(20.5f);
